@@ -1,5 +1,10 @@
 # Awesome 404 Not Found
 
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+</a>
+
+
 > PRs are Welcome!
 
 ## Github
