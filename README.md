@@ -26,3 +26,15 @@
 <img src="images/404-slack.png" alt="slack" align="center" width=500>
 
 [Link](https://slack.com/404)
+
+## Lego
+
+<img src="images/404-lego.png" alt="lego" align="center" width=500>
+
+[Link](https://www.lego.com/404)
+
+## Email Center UK
+
+<img src="images/404-emailcenteruk.png" alt="emailcenteruk" align="center" width=500>
+
+[Link](https://www.emailcenteruk.com/404)
