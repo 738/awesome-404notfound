@@ -37,4 +37,4 @@
 
 <img src="images/404-emailcenteruk.png" alt="emailcenteruk" align="center" width=500>
 
-[Link](https://www.emailcenteruk.com/404)
+~~[Link](https://www.emailcenteruk.com/404)~~ INVALID
