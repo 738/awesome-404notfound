@@ -38,3 +38,7 @@
 <img src="images/404-emailcenteruk.png" alt="emailcenteruk" align="center" width=500>
 
 ~~[Link](https://www.emailcenteruk.com/404)~~ INVALID
+
+## Other Websites
+
+* [404 Illustrations](https://www.kapwing.com/404-illustrations) - Trendy, ready to use images for your 404 page
